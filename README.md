@@ -2,6 +2,13 @@
 
 ## Calculating SPI using the python script: calcSPI.py
 
+#### Calculating SPI on sample data (using samples in main section)
+
+Using Python 2 or 3:
+```shell
+$ python calcSPI.py
+```
+
 #### Docstring of calcSPI.py
 ```shell
 '''Calculate SPI.
